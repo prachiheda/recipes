@@ -1,0 +1,58 @@
+.mainpage{
+    background-color: #dcedc9; 
+}
+
+h1, h3{
+    color:#014421; 
+    display: block; 
+    text-align: center; 
+}
+
+.recipe a:hover{
+    background-color:#8bc34a; 
+}
+
+a {
+    background-color: white;
+    margin: 20px; 
+    border-radius: 15px; 
+    font-size: 20px; 
+    display: block; 
+    padding: 40px; 
+    text-decoration: none; 
+    color: black; 
+}
+
+img { 
+    border: 4px solid #014421;
+    border-radius: 4px;
+    display: block;
+    margin: auto; 
+}
+
+.description{
+    background-color: white;
+    border-radius: 10px; 
+    padding: 8px; 
+    margin: 16px; 
+}
+
+.ingredients{
+    display:inline-block; 
+    margin: 0;
+   
+}
+
+.steps{
+    display: inline-block;
+    margin: 0;
+}
+
+.info{
+    background-color: white;
+    border-radius: 10px; 
+    padding: 8px; 
+    margin: 16px; 
+    display: inline-block;
+}
+   
